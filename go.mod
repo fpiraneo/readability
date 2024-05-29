@@ -1,5 +1,5 @@
-module github.com/cixtor/readability
+module github.com/fpiraneo/readability
 
-go 1.14
+go 1.22
 
 require golang.org/x/net v0.8.0

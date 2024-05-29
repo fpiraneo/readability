@@ -1,2 +1,3 @@
 /.golangcilint-*
 /res
+.DS_Store

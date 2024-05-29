@@ -6,6 +6,8 @@ Readability is a library written in Go (golang) to parse, analyze and convert HT
 >
 > [In Defense Of Readers](http://alistapart.com/articles/indefenseofreaders), by [Mandy Brown](http://www.aworkinglibrary.com/)
 
+This aims to be the continuation and an update of the original github.com/cixtor/readability package that seems to be abandoned to it's fate laying without any documentation of how to use it.
+
 ## Evolution of Readability Web Engines
 
 | Product | Year | Shutdown |
